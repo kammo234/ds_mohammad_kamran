@@ -1,0 +1,5 @@
+.DS_Store
+outputs/*
+!outputs/.gitkeep
+csv_files/*
+!csv_files/.gitkeep
